@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{85CC2746-0BC2-4FAA-9F68-234559CB586A}" Name="customer manger">
+      <DtsConnectionManagerID>customer manger</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{593DBE4E-4EA4-448C-90E6-0E6E4EC11B64}" Name="DESKTOP-4BKFHT7.CM2">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.CM2</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{A7A7E2B4-EEFB-4256-95B4-E7AF9AE479F6}" Name="DESKTOP-4BKFHT7.Customer_Management_sys">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{93E1D6BC-2534-43A6-9729-D6607396A1A6}" Name="DESKTOP-4BKFHT7.Customer_Management_sys 1">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{903B0D7B-C12F-466A-B8D4-A55E2FEE1A47}" Name="DESKTOP-4BKFHT7.Customer_Management_sys 2">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys 2</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{00ABF63B-E46A-425B-96C1-FABD37311EF6}" Name="DESKTOP-4BKFHT7.Customer_Management_sys 3">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys 3</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{E4ED083D-B38F-4444-BE5F-E483573443A5}" Name="DESKTOP-4BKFHT7.Customer_Management_sys 4">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys 4</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{61B17649-B0F9-43FD-B5A9-C94D25AE60C4}" Name="DESKTOP-4BKFHT7.Customer_Management_sys 5">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.Customer_Management_sys 5</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{E40E2008-6B8A-4943-BB22-0D2CA51B2DC6}" Name="DESKTOP-4BKFHT7.temp db">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.temp db</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{6C2135B7-28DD-4DFD-8877-C64A5D84E9B6}" Name="DESKTOP-4BKFHT7.tempdb">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.tempdb</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4255F498-66B6-440E-97D9-5E836678EDE7}" Name="DESKTOP-4BKFHT7.tempdb 1">
+      <DtsConnectionManagerID>DESKTOP-4BKFHT7.tempdb 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{AC9256EE-0CCC-49BD-B098-7334026919CE}" Name="Excel Connection Manager">
+      <DtsConnectionManagerID>Excel Connection Manager</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{30E3C1A8-55FE-489C-87D2-83D269C9F3BE}" Name="Excel Connection Manager 1">
+      <DtsConnectionManagerID>Excel Connection Manager 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{BB0E9048-DD57-4768-93BD-8AFB00F60854}" Name="Excel Connection Manager 2">
+      <DtsConnectionManagerID>Excel Connection Manager 2</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3107C9FD-C134-4C2D-BA30-D836229DAA50}" Name="Excel Connection Manager 3">
+      <DtsConnectionManagerID>Excel Connection Manager 3</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{B2C3E121-9851-44C8-A4EF-DB92C788FFF1}" Name="Excel Connection Manager 4">
+      <DtsConnectionManagerID>Excel Connection Manager 4</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{C90C067B-B8CB-40C2-8824-179DA7CF3E61}" Name="Flat File Connection Manager">
+      <DtsConnectionManagerID>Flat File Connection Manager</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{115A0AE5-E79D-440C-87F4-0729B444EF69}" Name="interaction file">
+      <DtsConnectionManagerID>interaction file</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{41E4C329-E7D3-47C4-B852-91C81139CD92}" Name="profiling">
+      <DtsConnectionManagerID>profiling</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests />
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>
